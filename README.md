@@ -11,16 +11,16 @@ sklearn
 https://sklearn.apachecn.org/#/  
 SpringBoot 
 https://www.springcloud.cc/spring-boot.html#getting-started-first-application-dependencies  
-Scala
+Scala 
 https://windor.gitbooks.io/beginners-guide-to-scala/content/ 
-InfoQ
+InfoQ 
 https://www.infoq.cn/topic/architecture 
-Java
+Java 
 https://cloud.tencent.com/developer/column/73031 
-思否
+思否 
 https://segmentfault.com/t/%E5%A4%A7%E6%95%B0%E6%8D%AE/blogs 
-机器之心
+机器之心 
 https://www.jiqizhixin.com/ 
-K8s
+K8s 
 https://www.kubernetes.org.cn/doc-11 
 
